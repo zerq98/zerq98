@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**zerq98/zerq98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hello there 😱
+## 🚀 About Me
+My name is Mateusz. I'm .NET developer with 2 years experience. I am focused on expanding my skills in web development, but I am opened for new technologies.
+## Badges
+[![codewars](https://www.codewars.com/users/zerq98/badges/large)](https://www.codewars.com/users/zerq98)
+## 🛠 Tech Stack
+**Languages:** C#, JavaScript, MSSQL
+**Frameworks:** .NET, Angular
+## Job history
+👩‍💻 I'm currently working at <br> [![DPS](https://img.shields.io/badge/-DPS%20Software%20-blue)](https://www.dps-software.pl) <br><br>
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/My--Portfolio-Under%20construction-brightgreen?style=for-the-badge&logo=ko-fi&logoColor=brightgreen)]()<br><br>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
