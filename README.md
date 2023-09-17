@@ -26,6 +26,7 @@ My name is Mateusz. I'm .NET developer with 2 years’ experience. I am focused 
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes"/></code>
 </div>
+
 ## Job history
 👩‍💻 I'm currently working at <br> [![B3 Consulting Poland](https://img.shields.io/badge/-B3%20Consulting%20Poland%20-blue)](https://www.b3.se/pl) <br><br>
 👩‍💻 I worked in <br> [![DPS](https://img.shields.io/badge/-DPS%20Software%20-blue)](https://www.dps-software.pl) <br>
