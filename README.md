@@ -1,6 +1,6 @@
 # Hello there 🤖
 ## 🚀 About Me
-My name is Mateusz. I'm .NET developer with 2 years’ experience. I am focused on expanding my skills in web development, but I am opened for new technologies.
+My name is Mateusz. I'm .NET developer with 4 years’ experience. I am focused on expanding my skills in web development, but I am opened for new technologies.
 ## Badges
 [![codewars](https://www.codewars.com/users/zerq98/badges/large)](https://www.codewars.com/users/zerq98)
 ## 🛠 Tech Stack
