@@ -1,6 +1,6 @@
 # Hello there 🤖
 ## 🚀 About Me
-My name is Mateusz. I'm .NET developer with 4 years’ experience. I am focused on expanding my skills in web development, but I am opened for new technologies.
+My name is Mateusz. I'm .NET developer with 5 years’ experience. I am focused on expanding my skills in web development, but I am opened for new technologies.
 ## Badges
 [![codewars](https://www.codewars.com/users/zerq98/badges/large)](https://www.codewars.com/users/zerq98)
 # 💻 Tech Stack:
@@ -16,7 +16,7 @@ My name is Mateusz. I'm .NET developer with 4 years’ experience. I am focused 
 [![](https://visitcount.itsvg.in/api?id=zerq98&icon=0&color=3)](https://visitcount.itsvg.in)
 
 ## Job history
-👩‍💻 I'm currently working at <br> [![B3 Consulting Poland](https://img.shields.io/badge/-B3%20Consulting%20Poland%20-blue)](https://www.b3.se/pl) <br><br>
+👩‍💻 I'm currently working at <br> [![B3 Consulting Poland](https://img.shields.io/badge/-B3%20Consulting%20Poland%20-blue)](https://www.b3.se/pl) [![PKO BP SA](https://img.shields.io/badge/-PKO%20BP%20SA%20-blue)]([https://www.b3.se/pl](https://www.pkobp.pl)) <br><br>
 👩‍💻 I worked in <br> [![DPS](https://img.shields.io/badge/-DPS%20Software%20-blue)](https://www.dps-software.pl) <br>
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
